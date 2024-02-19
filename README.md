@@ -13,24 +13,6 @@ This is a simple React blog app that loads blogs in chunks of 6 and redirects to
 - TypeScript
 - Tailwind CSS
 
-## Folder Structure
-
-react-blog-app/
-├── public/
-│   ├── vite.svg
-├── src/
-│   ├── components/
-│   │   ├── Card.tsx
-│   ├── pages/
-│   │   ├── HomePage.tsx
-│   ├── App.tsx
-│   ├── index.css
-│   ├── main.tsx
-│   └── ...
-├── README.md
-└── ...
-
-
 ### Installation
 
 1. Clone the repository:
