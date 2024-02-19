@@ -19,4 +19,5 @@ This is a simple React blog app that loads blogs in chunks of 6 and redirects to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-blog-app.git
+   git clone https://github.com/Shubhamkr2610/Levo_Blogs.git
+
